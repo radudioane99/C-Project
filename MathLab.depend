@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1543656703 source:c:\users\radu\desktop\c project dioane radu\mathlab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"MAT.h"
+	"undirectedgraphs.h"
+	"COMBINATORICS.h"
+	"MATOP.h"
+
+1543309282 c:\users\radu\desktop\c project dioane radu\mathlab\matrices.h
+
+1543617331 source:c:\users\radu\desktop\c project dioane radu\mathlab\matrices.c
+	<stdio.h>
+	<stdbool.h>
+	"MAT.h"
+
+1543617708 c:\users\radu\desktop\c project dioane radu\mathlab\undirectedgraphs.h
+
+1543586441 source:c:\users\radu\desktop\c project dioane radu\mathlab\undirectedgraphs.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"UNDIRECTEDGRAPHS.h"
+
+1543617731 c:\users\radu\desktop\c project dioane radu\mathlab\mat.h
+
+1543604801 source:c:\users\radu\desktop\c project dioane radu\mathlab\combinatorics.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"COMBINATORICS.h"
+
+1543617708 c:\users\radu\desktop\c project dioane radu\mathlab\combinatorics.h
+
+1543656637 c:\users\radu\desktop\c project dioane radu\mathlab\matop.h
+
+1543656870 source:c:\users\radu\desktop\c project dioane radu\mathlab\matop.c
+	<stdio.h>
+	"MAT.h"
+	"MATOP.H"
+
